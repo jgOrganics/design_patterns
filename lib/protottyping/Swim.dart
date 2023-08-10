@@ -1,0 +1,5 @@
+
+class SwimPool
+{
+  String? name ;
+}
